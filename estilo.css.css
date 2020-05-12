@@ -1,0 +1,22 @@
+body{
+    background-image:
+      url(
+      "https://images.daznservices.com/di/library/Goal_Brasil/77/75/ronaldinho-atletico-mg-newells-old-boys-copa-libertadores-10072013_1o2tlsgd2yoyp1p9r0pwxdqt9k.jpg?t=-1104982641");
+      background-size: 170vh;
+    }
+  h1{
+    font-family: Verdana;
+   }
+  h2{
+    font-family: Arial;
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  .menu li {
+   list-style: none; 
+  }
+  
+  
